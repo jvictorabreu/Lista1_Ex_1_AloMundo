@@ -1,2 +1,2 @@
 # Lista1_Ex_1
-Exercícios estrutura sequencial - Alô Mundo
+1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
